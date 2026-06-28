@@ -67,9 +67,9 @@ check_token() {
   else
     echo -e "${GREEN}Buy dulu Gih Ke OliviaDevz${NC}"
     echo -e "${YELLOW}TELEGRAM : @greyskydrift${NC}"
-    echo -e "${YELLOW}WHATSAPP : 62882016523845${NC}"
+    echo -e "${YELLOW}WHATSAPP : 6285847687394${NC}"
     echo -e "${YELLOW}HARGA TOKEN : 10K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
-    echo -e "${YELLOW}©oliviadeveloper${NC}"
+    echo -e "${YELLOW}© Oliviadeveloper${NC}"
     exit 1
   fi
   clear
